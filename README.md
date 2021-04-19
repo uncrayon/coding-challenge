@@ -1,2 +1,4 @@
 # Coding Challenge
-This repo is inspired to reproduce and explore those results and problems introduced in [The Coding Train](https://www.youtube.com/user/shiffman)
+Este repo está inspirado en los problemas y retos introducidos en [The Coding Train](https://www.youtube.com/user/shiffman). 
+
+I'd like to thanks to @shiffman for so much fun. 
