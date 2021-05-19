@@ -1,5 +1,5 @@
 # Coding Challenge
-Este repo está inspirado, más no es una reproducción, en los problemas y retos introducidos en [The Coding Train](https://www.youtube.com/user/shiffman) y en especial los problemas tratados en de [The Nature of Code](https://natureofcode.com/). 
+Este repo está inspirado, más no es una reproducción, en los problemas y retos introducidos en [The Coding Train](https://www.youtube.com/user/shiffman) y en especial los problemas tratados en de [The Nature of Code](https://natureofcode.com/). Simplemente decidí hacer de una forma más explorativa y explicativa algunos problemas con los que he notado que estudiantes tiene problemas: _pasar de los teoremas a las aplicaciones númericas_. 
 
 Es importante aclarar que es una decisión hacer todo en español y no en inglés ya que considero prodría servirle a hispanihablantes que tengan poco conocimiento o dificultades consultando material en inglés. 
 
